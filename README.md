@@ -119,11 +119,10 @@ print("Depth First Search:")
 print(traversepath)
 ```
 ## Output:
-Input 1:
+## Input 1:
 <img width="1195" height="635" alt="image" src="https://github.com/user-attachments/assets/e94803ad-fc1e-48a7-a4dc-c7ea661ef7fe" />
-Input 2:
+## Input 2:
 <img width="782" height="521" alt="image" src="https://github.com/user-attachments/assets/228dcb36-9105-4dac-9e22-4773241f2805" />
-
 ## Result:
 Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
 
