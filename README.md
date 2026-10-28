@@ -124,7 +124,6 @@ print(traversepath)
 ### Input 2:
 <img width="782" height="521" alt="image" src="https://github.com/user-attachments/assets/228dcb36-9105-4dac-9e22-4773241f2805" />
 
-<h3>Result:</h3>
-<hr>
-<p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
+## Result:
+Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
 
